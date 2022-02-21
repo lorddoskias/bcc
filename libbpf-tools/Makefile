@@ -56,6 +56,7 @@ APPS = \
 	tcpconnlat \
 	tcprtt \
 	vfsstat \
+	tcpaccept \
 	#
 
 FSDIST_ALIASES = btrfsdist ext4dist nfsdist xfsdist
